@@ -4,3 +4,6 @@
 
 
 [Week 2: Show What You Know: Write and Explain A Program](https://www.youtube.com/watch?v=4OU0wduDImA)
+
+
+[Week 2: Animal Parade](https://youtu.be/CAJMi58B3oI)
