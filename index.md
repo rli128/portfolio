@@ -3,4 +3,4 @@
 [Week 1](https://youtu.be/JC8eB10hBZo)
 
 
-[Week 2: Show What You Know: Write and Explain A Program](https://youtu.be/JC8eB10hBZo)
+[Week 2: Show What You Know: Write and Explain A Program](https://www.youtube.com/watch?v=4OU0wduDImA)
