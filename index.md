@@ -10,3 +10,6 @@
 
 
 [Week 3: Nested For-Loops](https://www.youtube.com/watch?v=dxxGUJjdk9o)
+
+
+[Week 3: Events](https://youtu.be/sCW358zzOvA)
