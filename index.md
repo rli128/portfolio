@@ -7,3 +7,6 @@
 
 
 [Week 2: Animal Parade](https://youtu.be/CAJMi58B3oI)
+
+
+[Week 3: Nested For-Loops](https://www.youtube.com/watch?v=dxxGUJjdk9o)
