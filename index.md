@@ -13,3 +13,6 @@
 
 
 [Week 3: Events](https://youtu.be/sCW358zzOvA)
+
+
+[Week 4: Variables](https://youtu.be/4MrAr31ax0E)
