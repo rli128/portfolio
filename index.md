@@ -16,3 +16,5 @@
 
 
 [Week 4: Variables](https://youtu.be/4MrAr31ax0E)
+
+[Week 5: Conditional Loops](https://youtu.be/FkwtO37qpCA)
