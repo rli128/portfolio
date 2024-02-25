@@ -20,3 +20,5 @@
 [Week 5: Conditional Loops](https://youtu.be/FkwtO37qpCA)
 
 [Week 6: If Else Statements](https://youtu.be/7_mFZc-KuI8)
+
+[Week 7: Nested If-Else Statements](https://youtu.be/1kPds4xIirw)
