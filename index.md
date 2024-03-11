@@ -23,4 +23,6 @@
 
 [Week 7: Nested If-Else Statements](https://youtu.be/1kPds4xIirw)
 
-[Week 7: Compound Conditionals](https://youtu.be/FslNACaCRyU)
+[Week 8: Compound Conditionals](https://youtu.be/FslNACaCRyU)
+
+[Week 9: Abstraction](https://youtu.be/85lrDvuyCoQ)
