@@ -26,3 +26,5 @@
 [Week 8: Compound Conditionals](https://youtu.be/FslNACaCRyU)
 
 [Week 9: Abstraction](https://youtu.be/85lrDvuyCoQ)
+
+[Week 10: Lists](https://youtu.be/CXbhHVNZ9uw)
